@@ -19,11 +19,11 @@
   "dependencies": {
     "blockapps-rest": "git://github.com/blockapps/blockapps-rest.git#v6.4.1",
     "body-parser": "^1.15.2",
-    "chai": "^4.0.2",
+    "chai": "^4.3.10",
     "co": "^4.6.0",
     "co-mocha": "^1.2.0",
     "cors": "^2.8.1",
-    "expect": "latest",
+    "expect": "27.2.2",
     "express": "^4.14.0",
     "mocha": "^3.4.2"
   },
